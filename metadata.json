@@ -1,11 +1,12 @@
 {
   "name": "My Custom NFT",
   "description": "An NFT I created myself for the BDL coursework.",
-  "image": "https://raw.githubusercontent.com/ybyzmdgd/BDL---coursework/main/nft1.jpg",
+  "image": "https://raw.githubusercontent.com/ybyzmdgd/BDL---coursework/main/nft2.jpg",
   "attributes": [
     { "trait_type": "Creator", "value": "Jingyan" },
     { "trait_type": "Project", "value": "BDL Coursework NFT" }
   ]
 }
+
 
 
